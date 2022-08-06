@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Alarezi</h1>
 
-<h3 align="center">A passionate frontend developer from Iran</h3>
+<h3 align="center">A Passionate Frontend Developer From Iran</h3>
 
 - 🔭 I’m currently working on [Nakhlestan](https://nakhlestaan.com/)
 - 🌱 I’m currently learning **Next.js , TypeScript**
