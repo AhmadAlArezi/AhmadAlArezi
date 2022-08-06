@@ -16,6 +16,9 @@
 <a href="https://wa.me/+989024609612" ><img src="https://camo.githubusercontent.com/dae548bf98f5289b2392d7f798ed16a8382b979a105a90b953519d7f96effb97/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d663466346634266c6f676f3d7768617473617070266c6f676f436f6c6f723d323544333636266c696e6b3d68747470733a2f2f77612e6d652f2b3938393035393136333832322f"  ></a>
 </p>
 
+![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadalarezi&theme=merko&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadalarezi&theme=merko)](https://github.com/ahmadalarezi/github-readme-stats)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
@@ -52,6 +55,3 @@
 <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40" /> </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" /> </a>
 </p>
-
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadalarezi&theme=merko&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadalarezi&theme=merko)](https://github.com/ahmadalarezi/github-readme-stats)
