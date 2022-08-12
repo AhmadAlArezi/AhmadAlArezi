@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Nakhlestan](https://nakhlestaan.com/)
 - 🌱 I’m currently learning **Next.js , TypeScript**
-- 💬 Ask me about **React , Sass , Bootstrap , Tailwind**
+- 💬 Ask me about **React , Sass , Bootstrap , Tailwind , Material UI**
 - 📫 How to reach me **AhmadAlarezi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
