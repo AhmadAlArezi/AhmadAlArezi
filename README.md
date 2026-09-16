@@ -1,35 +1,22 @@
 <h1 align="center">Hi there, I'm Ahmad Alarezi 👋</h1>
-<h3 align="center">Frontend Developer from Iran, crafting clean & responsive web experiences</h3>
+<h3 align="center">Software Engineer from Iran — Frontend, Backend, DevOps & AI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=4F4F4F&center=true&vCenter=true&width=500&lines=React+%7C+Vue+%7C+TypeScript+Developer;Building+responsive%2C+accessible+UIs;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=4F4F4F&center=true&vCenter=true&width=600&lines=Full-stack%2C+Cloud+%26+AI-curious+Engineer;React+%7C+Vue+%7C+Laravel+%7C+Kubernetes;Shipping+end-to-end%2C+from+UI+to+infra" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently a **Frontend Developer at Signal Group** (Qom, Iran), building responsive, production-grade web interfaces
-- 🌱 Background spans **React, Vue, TypeScript, Sass, Tailwind, Bootstrap, Material UI**
-- 🛠️ Comfortable across the stack with **PHP / Laravel / CodeIgniter / MySQL** on the backend
+- 🔭 Currently a **Software Engineer at Signal Group** (Qom, Iran), working across the frontend, backend, and infrastructure
+- 🖥️ Frontend: **React, Vue, TypeScript, Sass, Tailwind, Bootstrap, Material UI**
+- ⚙️ Backend: **PHP, Laravel, CodeIgniter, MySQL, MariaDB, Redis**
+- ☁️ DevOps: **Docker, Kubernetes, Nginx, CI/CD, Linux server administration, Helm**
+- 🤖 Growing into **AI/Python**, applying it alongside day-to-day engineering work
 - 📱 Some experience with **Android** development and **Postman** for API testing
-- 💬 Ask me about **React, Vue, TypeScript, Sass, Tailwind, Material UI**
 - 📫 Reach me at **AhmadAlarezi@gmail.com**
 - 🎯 Detail-oriented and organized, comfortable working at a fast pace to meet tight deadlines — an enthusiastic team player focused on contributing to company success
-
----
-
-### 💼 Experience
-
-| Role | Company | Duration |
-|---|---|---|
-| Frontend Developer | **Signal Group** | Aug 2025 – Present |
-| Frontend Developer | **MahanSoft** | Dec 2022 – Aug 2025 |
-| Professional Freelancer | Freelance | Jun 2020 – Dec 2022 |
-| Full Stack Developer | Nakhlestaan | Mar 2019 – Jun 2020 |
-| Full Stack Developer | Zakaa | Jan 2016 – Mar 2019 |
-
-**🎓 Education:** Computer Software Engineering, University of Torbat Heydarieh (2012 – 2015) · Islamic Azad University
 
 ---
 
@@ -57,6 +44,22 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" />
+</p>
+
+**DevOps & Cloud:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+</p>
+
+**AI & Backend:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 </p>
 
 **Design:**
