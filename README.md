@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ahmad Alarezi 👋</h1>
-<h3 align="center">Software Engineer — Frontend, Backend, DevOps & AI</h3>
+<h3 align="center">Software Engineer from Iran — Frontend, Backend, DevOps & AI</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=4F4F4F&center=true&vCenter=true&width=600&lines=Full-stack%2C+Cloud+%26+AI-curious+Engineer;React+%7C+Vue+%7C+Laravel+%7C+Kubernetes;Shipping+end-to-end%2C+from+UI+to+infra" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently a **Software Engineer at Signal Group** , working across the frontend, backend, and infrastructure
+- 🔭 Currently a **Software Engineer at Signal Group** (Qom, Iran), working across the frontend, backend, and infrastructure
 - 🖥️ Frontend: **React, Vue, TypeScript, Sass, Tailwind, Bootstrap, Material UI**
 - ⚙️ Backend: **Laravel, NestJS, Python, MySQL, Redis**
 - ☁️ DevOps: **Docker, Kubernetes, Nginx, CI/CD**
