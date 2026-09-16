@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently a **Software Engineer at Signal Group** (Qom, Iran), working across the frontend, backend, and infrastructure
+- 🔭 Currently a **Software Engineer at Signal Group** , working across the frontend, backend, and infrastructure
 - 🖥️ Frontend: **React, Vue, TypeScript, Sass, Tailwind, Bootstrap, Material UI**
 - ⚙️ Backend: **Laravel, NestJS, Python, MySQL, Redis**
 - ☁️ DevOps: **Docker, Kubernetes, Nginx, CI/CD**
