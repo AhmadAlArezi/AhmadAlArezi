@@ -50,8 +50,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmadalarezi&show_icons=true&include_all_commits=true&count_private=true&theme=merko" alt="Ahmad's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadalarezi&layout=compact&theme=merko" alt="Top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=ahmadalarezi&show_icons=true&include_all_commits=true&count_private=true&theme=merko" alt="Ahmad's GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ahmadalarezi&layout=compact&theme=merko" alt="Top languages" />
 </p>
 
 <p align="center">
