@@ -1,56 +1,100 @@
-<h1 align="center">Hi 👋, I'm Ahmad Alarezi</h1>
+<h1 align="center">Hi there, I'm Ahmad Alarezi 👋</h1>
+<h3 align="center">Frontend Developer from Iran, crafting clean & responsive web experiences</h3>
 
-<h3 align="center">A Passionate Frontend Developer From Iran</h3>
-
-- 🔭 I’m currently working with [MahanSoft](http://www.amnshabake.ir/)
-- 💬 Ask me about **React , Sass , Bootstrap , Tailwind , Material UI**
-- 📫 How to reach me **AhmadAlarezi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="center" >
-<a href="mailto:AhmadAlarezi@gmail.com"><img src="https://camo.githubusercontent.com/b3cb922f087c07b986647c98ac570d2a643486455165557dc8aa896f44e382fc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d663466346634266c6f676f3d676d61696c266c6f676f436f6c6f723d443134383336266c696e6b3d6d61696c746f3a657266616e2e6d616c616b75746940676d61696c2e636f6d2f"  ></a>
-<a href="https://www.linkedin.com/in/ahmad-alarezi/" ><img src="https://camo.githubusercontent.com/3658d2f47bf2a33787768fb0ad2a688c15c840e1d71caeafbcd4c459f29d22b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d663466346634266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d303037374235266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f657266616e2d6d616c616b6f7574692f">
-</a>
-<a href="https://wa.me/+989024609612" ><img src="https://camo.githubusercontent.com/dae548bf98f5289b2392d7f798ed16a8382b979a105a90b953519d7f96effb97/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d663466346634266c6f676f3d7768617473617070266c6f676f436f6c6f723d323544333636266c696e6b3d68747470733a2f2f77612e6d652f2b3938393035393136333832322f"  ></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=4F4F4F&center=true&vCenter=true&width=500&lines=React+%7C+Vue+%7C+TypeScript+Developer;Building+responsive%2C+accessible+UIs;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </p>
 
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadalarezi&theme=merko&show_icons=true&include_all_commits=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadalarezi&theme=merko)](https://github.com/ahmadalarezi/github-readme-stats)
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /> </a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://v4.mui.com/static/logo.png" alt="Material Ui" width="40" height="40" /> </a>
-</p>
-<p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" /> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" /> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-</p>
-<p align="left">
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /> </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
-</p>
+### 👨‍💻 About Me
 
-</p>
+- 🔭 Currently a **Frontend Developer at Signal Group** (Qom, Iran), building responsive, production-grade web interfaces
+- 🌱 Background spans **React, Vue, TypeScript, Sass, Tailwind, Bootstrap, Material UI**
+- 🛠️ Comfortable across the stack with **PHP / Laravel / CodeIgniter / MySQL** on the backend
+- 📱 Some experience with **Android** development and **Postman** for API testing
+- 💬 Ask me about **React, Vue, TypeScript, Sass, Tailwind, Material UI**
+- 📫 Reach me at **AhmadAlarezi@gmail.com**
+- 🎯 Detail-oriented and organized, comfortable working at a fast pace to meet tight deadlines — an enthusiastic team player focused on contributing to company success
 
-<h3 align="left">And Some Experience In:</h3>
+---
+
+### 💼 Experience
+
+| Role | Company | Duration |
+|---|---|---|
+| Frontend Developer | **Signal Group** | Aug 2025 – Present |
+| Frontend Developer | **MahanSoft** | Dec 2022 – Aug 2025 |
+| Professional Freelancer | Freelance | Jun 2020 – Dec 2022 |
+| Full Stack Developer | Nakhlestaan | Mar 2019 – Jun 2020 |
+| Full Stack Developer | Zakaa | Jan 2016 – Mar 2019 |
+
+**🎓 Education:** Computer Software Engineering, University of Torbat Heydarieh (2012 – 2015) · Islamic Azad University
+
+---
+
+### 🧰 Languages & Tools
 
 <p align="left">
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> </a>
-<a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40" /> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" /> </a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" />
+</p>
+
+**Design:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmadalarezi&show_icons=true&include_all_commits=true&count_private=true&theme=merko" alt="Ahmad's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadalarezi&layout=compact&theme=merko" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadalarezi&theme=merko" alt="GitHub streak" />
+</p>
+
+---
+
+### 🤝 Connect with me
+
+<p align="center">
+  <a href="mailto:AhmadAlarezi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmad-alarezi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/989024609612" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmadalarezi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
